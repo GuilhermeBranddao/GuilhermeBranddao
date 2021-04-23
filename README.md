@@ -1,5 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá me chamo Guilherme Brandão</h1>
 
+## Contato
 
 <p>
   <a href="mailto:guilhermebranddao@gmail.com">
@@ -20,8 +21,8 @@
 </p>
 
 
-## Contato
 
+## Descrição
 - :rocket: Skills: <strong>HTML5 | Python | Data analysis | Data visualization | Web Scraping | Django | MySql.</strong>
 - :mortar_board: Studying: <strong>Computer Vision | Machine Learning | Deep Learning</strong>.
 - :briefcase: I am currently looking for a job as a Junior Data Scientist.
