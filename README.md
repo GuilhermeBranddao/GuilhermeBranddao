@@ -1,7 +1,5 @@
 # Guilherme Brandão
 
-<img align="right" width="300px" src="./bio-image.svg" />
-
 <p align="left">
   <a href="mailto:guilhermebranddao@gmail.com">
     <img src="https://img.shields.io/badge/-guilhermebranddao@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermebranddao@gmail.com" />
