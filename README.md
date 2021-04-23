@@ -9,9 +9,9 @@
   <a href="https://www.linkedin.com/in/guilherme-brandao-">
     <img src="https://img.shields.io/badge/-Guilherme%20Brand%C3%A3o-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-brandao-" />
   </a>
-  
-  <a href="https://www.instagram.com/guilherme_brandao.py">
-    <img src="https://img.shields.io/badge/-Guilherme%20Brand%C3%A3o-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guilherme_brandao.py" />
+
+  <a href="https://discord.com/channels/GuilhermeBranddao">
+    <img src="https://img.shields.io/badge/-Guilherme%20Brand%C3%A3o-6633cc?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/GuilhermeBranddao" />
   </a>
 
   <a href="https://github.com/GuilhermeBranddao/?tab=follow">
